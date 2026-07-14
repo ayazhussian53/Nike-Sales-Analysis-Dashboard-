@@ -1,5 +1,6 @@
 # Nike-Sales-Analysis-Dashboard-
 👟 Nike Product Line – Sales & Performance Dashboard (Excel & Power BI)
+<br>
 📊 Project Overview
 This Power BI dashboard analyzes the entire Nike product portfolio (not just one shoe). It provides a comprehensive view of sales, customer reviews, and regional performance across multiple Nike products.
 
